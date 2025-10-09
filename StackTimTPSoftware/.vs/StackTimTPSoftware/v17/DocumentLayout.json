@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|c:\\uwamp\\www\\my-app\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\controller\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|solutionrelative:stacktimtpsoftware\\controller\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|c:\\uwamp\\www\\my-app\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|solutionrelative:stacktimtpsoftware\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|c:\\uwamp\\www\\my-app\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\db\\stacktimdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|solutionrelative:stacktimtpsoftware\\db\\stacktimdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|c:\\uwamp\\www\\my-app\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|solutionrelative:stacktimtpsoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|c:\\uwamp\\www\\my-app\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|solutionrelative:stacktimtpsoftware\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|c:\\uwamp\\www\\my-app\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|solutionrelative:stacktimtpsoftware\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimTPSoftware.csproj|c:\\uwamp\\www\\my-app\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\models\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimTPSoftware.csproj|solutionrelative:stacktimtpsoftware\\models\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimTPSoftware.csproj|c:\\uwamp\\www\\my-app\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\db\\stacktimdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimTPSoftware.csproj|solutionrelative:stacktimtpsoftware\\db\\stacktimdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimTPSoftware.csproj|c:\\uwamp\\www\\my-app\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimTPSoftware.csproj|solutionrelative:stacktimtpsoftware\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimTPSoftware.csproj|c:\\uwamp\\www\\my-app\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\models\\teamplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimTPSoftware.csproj|solutionrelative:stacktimtpsoftware\\models\\teamplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimTPSoftware.csproj|c:\\uwamp\\www\\my-app\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimTPSoftware.csproj|solutionrelative:stacktimtpsoftware\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Program.cs",
-              "RelativeDocumentMoniker": "StackTimTPSoftware\\Program.cs",
-              "ToolTip": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Program.cs",
-              "RelativeToolTip": "StackTimTPSoftware\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T08:52:24.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\appsettings.json",
-              "RelativeDocumentMoniker": "StackTimTPSoftware\\appsettings.json",
-              "ToolTip": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\appsettings.json",
-              "RelativeToolTip": "StackTimTPSoftware\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-09T08:45:34.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StackTimDbContext.cs",
-              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Db\\StackTimDbContext.cs",
-              "RelativeDocumentMoniker": "StackTimTPSoftware\\Db\\StackTimDbContext.cs",
-              "ToolTip": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Db\\StackTimDbContext.cs",
-              "RelativeToolTip": "StackTimTPSoftware\\Db\\StackTimDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T08:11:00.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TeamPlayer.cs",
-              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Models\\TeamPlayer.cs",
-              "RelativeDocumentMoniker": "StackTimTPSoftware\\Models\\TeamPlayer.cs",
-              "ToolTip": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Models\\TeamPlayer.cs",
-              "RelativeToolTip": "StackTimTPSoftware\\Models\\TeamPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T07:57:39.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Team.cs",
-              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Models\\Team.cs",
-              "RelativeDocumentMoniker": "StackTimTPSoftware\\Models\\Team.cs",
-              "ToolTip": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Models\\Team.cs",
-              "RelativeToolTip": "StackTimTPSoftware\\Models\\Team.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T07:53:47.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rank.cs",
-              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Models\\Rank.cs",
-              "RelativeDocumentMoniker": "StackTimTPSoftware\\Models\\Rank.cs",
-              "ToolTip": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Models\\Rank.cs",
-              "RelativeToolTip": "StackTimTPSoftware\\Models\\Rank.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T07:52:56.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Models\\Player.cs",
               "RelativeDocumentMoniker": "StackTimTPSoftware\\Models\\Player.cs",
               "ToolTip": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Models\\Player.cs",
               "RelativeToolTip": "StackTimTPSoftware\\Models\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T07:51:37.381Z",
+              "WhenOpened": "2025-10-09T12:34:32.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StackTimDbContext.cs",
+              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Db\\StackTimDbContext.cs",
+              "RelativeDocumentMoniker": "StackTimTPSoftware\\Db\\StackTimDbContext.cs",
+              "ToolTip": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Db\\StackTimDbContext.cs",
+              "RelativeToolTip": "StackTimTPSoftware\\Db\\StackTimDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:33:32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StackTimTPSoftware\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StackTimTPSoftware\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T09:34:46.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Program.cs",
+              "RelativeDocumentMoniker": "StackTimTPSoftware\\Program.cs",
+              "ToolTip": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Program.cs",
+              "RelativeToolTip": "StackTimTPSoftware\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:26:57.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\appsettings.json",
+              "RelativeDocumentMoniker": "StackTimTPSoftware\\appsettings.json",
+              "ToolTip": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\appsettings.json",
+              "RelativeToolTip": "StackTimTPSoftware\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T09:26:44.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Controller\\PlayersController.cs",
+              "RelativeDocumentMoniker": "StackTimTPSoftware\\Controller\\PlayersController.cs",
+              "ToolTip": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Controller\\PlayersController.cs",
+              "RelativeToolTip": "StackTimTPSoftware\\Controller\\PlayersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:18:44.887Z",
               "EditorCaption": ""
             }
           ]

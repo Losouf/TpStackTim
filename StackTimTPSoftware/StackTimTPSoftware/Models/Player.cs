@@ -16,12 +16,11 @@ public class Player
     [Required, MaxLength(100)]
     public string Email { get; set; } = null!;
 
-    [Required]
+    [Required, Column(TypeName = "nvarchar(20)")]
     public Rank Rank { get; set; }
 
     public int TotalScore { get; set; } = 0;
 
-    // Navs
     public ICollection<TeamPlayer> TeamPlayers { get; set; } = new List<TeamPlayer>();
     public ICollection<Team> TeamsAsCaptain { get; set; } = new List<Team>();
 }
