@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StackTimAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12b8ecb72c8dc5016634b0eab1ab83abbd254526")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+263ef2c0e1470b402d4b7167975589865ef955a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("StackTimAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StackTimAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

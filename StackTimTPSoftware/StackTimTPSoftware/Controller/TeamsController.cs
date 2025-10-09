@@ -18,6 +18,7 @@ public class TeamsController : ControllerBase
     {
         var teams = await _db.Teams
             .Include(t => t.Captain)
+            .Include(p => p.TeamPlayers)
             .ToListAsync();
 
         return Ok(teams);
@@ -26,8 +27,12 @@ public class TeamsController : ControllerBase
     [HttpGet("{id}")]
     public async Task<ActionResult<Team>> GetById(int id)
     {
+        if (!await _db.Teams.AnyAsync(t => t.Id == id))
+            return NotFound("Équipe introuvable.");
+
         var team = await _db.Teams
             .Include(t => t.Captain)
+            .Include(p => p.TeamPlayers)
             .FirstOrDefaultAsync(t => t.Id == id);
 
         return team is null ? NotFound() : Ok(team);
@@ -57,6 +62,9 @@ public class TeamsController : ControllerBase
     [HttpGet("{id}/roster")]
     public async Task<ActionResult> GetRoster(int id)
     {
+        if (!await _db.Teams.AnyAsync(t => t.Id == id))
+            return NotFound("Équipe introuvable.");
+
         var team = await _db.Teams.Include(t => t.TeamPlayers)
                                   .ThenInclude(tp => tp.Player)
                                   .FirstOrDefaultAsync(t => t.Id == id);
@@ -70,5 +78,47 @@ public class TeamsController : ControllerBase
         });
 
         return Ok(roster);
+    }
+
+    [HttpPost("{teamId:int}/players")]
+    public async Task<IActionResult> AddPlayerToTeam(int teamId, [FromBody] AddPlayerToTeamDto body)
+    {
+        if (!await _db.Teams.AnyAsync(t => t.Id == teamId))
+            return NotFound("Équipe introuvable.");
+
+        if (!await _db.Player.AnyAsync(p => p.Id == body.PlayerId))
+            return NotFound("Joueur introuvable.");
+
+        var existe = await _db.TeamPlayer.AnyAsync(tp => tp.TeamId == teamId && tp.PlayerId == body.PlayerId);
+        if (existe)
+            return Conflict("Ce joueur fait déjà partie de cette équipe.");
+
+        _db.TeamPlayer.Add(new TeamPlayer
+        {
+            TeamId = teamId,
+            PlayerId = body.PlayerId,
+            Role = body.Role
+        });
+
+        await _db.SaveChangesAsync();
+        return NoContent();
+    }
+
+    [HttpDelete("{teamId:int}/players/{playerId:int}")]
+    public async Task<IActionResult> RemovePlayerFromTeam(int teamId, int playerId)
+    {
+        if (!await _db.Teams.AnyAsync(t => t.Id == teamId))
+            return NotFound("Équipe introuvable.");
+
+        if (!await _db.Player.AnyAsync(p => p.Id == playerId))
+            return NotFound("Joueur introuvable.");
+
+        var lien = await _db.TeamPlayer.FindAsync(teamId, playerId);
+        if (lien == null)
+            return NotFound("Ce joueur n’appartient pas à cette équipe.");
+
+        _db.TeamPlayer.Remove(lien);
+        await _db.SaveChangesAsync();
+        return NoContent();
     }
 }

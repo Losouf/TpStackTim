@@ -225,5 +225,47 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StackTimAPI.Controllers.TeamsController",
+    "Method": "AddPlayerToTeam",
+    "RelativePath": "api/Teams/{teamId}/players",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teamId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "body",
+        "Type": "StackTimAPI.DTOs.AddPlayerToTeamDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StackTimAPI.Controllers.TeamsController",
+    "Method": "RemovePlayerFromTeam",
+    "RelativePath": "api/Teams/{teamId}/players/{playerId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teamId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "playerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
