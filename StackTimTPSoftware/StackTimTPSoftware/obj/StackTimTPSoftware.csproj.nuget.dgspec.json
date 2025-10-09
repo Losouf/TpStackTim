@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\livio\\source\\repos\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimTPSoftware.csproj": {}
+    "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimTPSoftware.csproj": {}
   },
   "projects": {
-    "C:\\Users\\livio\\source\\repos\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimTPSoftware.csproj": {
+    "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimTPSoftware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\livio\\source\\repos\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimTPSoftware.csproj",
+        "projectUniqueName": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimTPSoftware.csproj",
         "projectName": "StackTimTPSoftware",
-        "projectPath": "C:\\Users\\livio\\source\\repos\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimTPSoftware.csproj",
+        "projectPath": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimTPSoftware.csproj",
         "packagesPath": "C:\\Users\\livio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\livio\\source\\repos\\StackTimTPSoftware\\StackTimTPSoftware\\obj\\",
+        "outputPath": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

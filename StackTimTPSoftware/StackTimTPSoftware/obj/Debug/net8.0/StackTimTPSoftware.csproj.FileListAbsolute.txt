@@ -31,3 +31,16 @@ C:\Users\livio\source\repos\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8
 C:\Users\livio\source\repos\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.pdb
 C:\Users\livio\source\repos\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.genruntimeconfig.cache
 C:\Users\livio\source\repos\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\ref\StackTimTPSoftware.dll
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.csproj.AssemblyReference.cache
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.AssemblyInfoInputs.cache
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.AssemblyInfo.cs
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.csproj.CoreCompileInputs.cache
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.MvcApplicationPartsAssemblyInfo.cache
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.RazorAssemblyInfo.cache
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.RazorAssemblyInfo.cs
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.sourcelink.json
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.dll
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\refint\StackTimTPSoftware.dll
+C:\UwAmp\www\my-app\Github\TpStackTim\StackTimTPSoftware\StackTimTPSoftware\obj\Debug\net8.0\StackTimTPSoftware.pdb
