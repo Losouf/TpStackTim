@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackTimAPI", "StackTimTPSoftware\StackTimAPI.csproj", "{FF603E9D-476F-4348-AC38-A08802930D89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacktimApi.Tests", "StacktimApi.Tests\StacktimApi.Tests.csproj", "{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FF603E9D-476F-4348-AC38-A08802930D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF603E9D-476F-4348-AC38-A08802930D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF603E9D-476F-4348-AC38-A08802930D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
