@@ -9,6 +9,4 @@ public class CreateTeamDto
 
     [Required, StringLength(3, MinimumLength = 3)]
     public string Tag { get; set; } = null!;
-
-    public int? CaptainId { get; set; }
 }

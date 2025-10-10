@@ -16,14 +16,35 @@ namespace StackTimAPI.Db
         {
             base.OnModelCreating(modelBuilder);
 
-            // Exemple : modelBuilder.Entity<Utilisateur>().Property(u => u.Email).IsRequired();
-            modelBuilder.Entity<TeamPlayer>()
-                .HasKey(tp => new { tp.TeamId, tp.PlayerId });
+            modelBuilder.Entity<Player>().ToTable("Players");
+            modelBuilder.Entity<Team>().ToTable("Teams");
+            modelBuilder.Entity<TeamPlayer>().ToTable("TeamPlayers");
 
-            modelBuilder
-                .Entity<Player>()
+            modelBuilder.Entity<TeamPlayer>(e =>
+            {
+                e.HasKey(tp => new { tp.TeamId, tp.PlayerId });
+
+                e.Property(tp => tp.TeamId).HasColumnName("TeamId");
+                e.Property(tp => tp.PlayerId).HasColumnName("PlayerId");
+                e.Property(tp => tp.Role).HasColumnName("Role");
+
+                e.HasOne(tp => tp.Team)
+                 .WithMany(t => t.TeamPlayers)
+                 .HasForeignKey(tp => tp.TeamId)
+                 .OnDelete(DeleteBehavior.Cascade);
+
+                e.HasOne(tp => tp.Player)
+                 .WithMany(p => p.TeamPlayers)
+                 .HasForeignKey(tp => tp.PlayerId)
+                 .OnDelete(DeleteBehavior.Cascade);
+            });
+
+            modelBuilder.Entity<Player>()
                 .Property(p => p.Rank)
-                .HasConversion<string>();
+                .HasConversion<string>()
+                .HasMaxLength(20);
+
         }
+
     }
 }

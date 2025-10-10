@@ -15,8 +15,5 @@ public class Team
     [Required, StringLength(3, MinimumLength = 3)]
     public string Tag { get; set; } = null!;
 
-    public int? CaptainId { get; set; }
-
-    public Player? Captain { get; set; }
     public ICollection<TeamPlayer> TeamPlayers { get; set; } = new List<TeamPlayer>();
 }

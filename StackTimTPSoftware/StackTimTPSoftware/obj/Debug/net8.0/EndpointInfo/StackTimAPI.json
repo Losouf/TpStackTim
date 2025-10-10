@@ -530,11 +530,6 @@
             "maxLength": 3,
             "minLength": 3,
             "type": "string"
-          },
-          "captainId": {
-            "type": "integer",
-            "format": "int32",
-            "nullable": true
           }
         },
         "additionalProperties": false
@@ -572,13 +567,6 @@
             "type": "array",
             "items": {
               "$ref": "#/components/schemas/TeamPlayer"
-            },
-            "nullable": true
-          },
-          "teamsAsCaptain": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Team"
             },
             "nullable": true
           }
@@ -642,14 +630,6 @@
             "maxLength": 3,
             "minLength": 3,
             "type": "string"
-          },
-          "captainId": {
-            "type": "integer",
-            "format": "int32",
-            "nullable": true
-          },
-          "captain": {
-            "$ref": "#/components/schemas/Player"
           },
           "teamPlayers": {
             "type": "array",

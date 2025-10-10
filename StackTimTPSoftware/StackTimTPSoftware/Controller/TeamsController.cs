@@ -17,8 +17,7 @@ public class TeamsController : ControllerBase
     public async Task<ActionResult<IEnumerable<Team>>> GetAll()
     {
         var teams = await _db.Teams
-            .Include(t => t.Captain)
-            .Include(p => p.TeamPlayers)
+            .Include(t => t.TeamPlayers).ThenInclude(tp => tp.Player)
             .ToListAsync();
 
         return Ok(teams);
@@ -31,8 +30,7 @@ public class TeamsController : ControllerBase
             return NotFound("Équipe introuvable.");
 
         var team = await _db.Teams
-            .Include(t => t.Captain)
-            .Include(p => p.TeamPlayers)
+            .Include(t => t.TeamPlayers).ThenInclude(tp => tp.Player)
             .FirstOrDefaultAsync(t => t.Id == id);
 
         return team is null ? NotFound() : Ok(team);
@@ -51,7 +49,6 @@ public class TeamsController : ControllerBase
         {
             Name = dto.Name,
             Tag = dto.Tag,
-            CaptainId = dto.CaptainId
         };
 
         _db.Teams.Add(team);
