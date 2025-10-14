@@ -6,7 +6,7 @@ using StackTimAPI.DTOs;
 using StackTimAPI.Models;
 using Xunit;
 
-namespace StacktimApi.Tests
+namespace StacktimApi.Tests.Controllers
 {
     public class PlayersControllerTest : IDisposable
     {

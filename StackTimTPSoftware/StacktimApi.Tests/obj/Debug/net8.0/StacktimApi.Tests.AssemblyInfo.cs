@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StacktimApi.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14f1d7b50ad4082cead3059410cd6faf0086a1d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86717ce8602ca01b0efaa61ef2de584a7ae63a18")]
 [assembly: System.Reflection.AssemblyProductAttribute("StacktimApi.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StacktimApi.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
