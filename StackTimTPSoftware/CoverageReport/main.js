@@ -213,18 +213,8 @@ var assemblies = [
   {
     "name": "StackTimAPI",
     "classes": [
-      { "name": "PlayerDto", "rp": "StackTimAPI_PlayerDto.html", "cl": 5, "ucl": 0, "cal": 5, "tl": 10, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "Program", "rp": "StackTimAPI_Program.html", "cl": 0, "ucl": 27, "cal": 27, "tl": 41, "cb": 0, "tb": 2, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "StackTimAPI.Controllers.PlayersController", "rp": "StackTimAPI_PlayersController.html", "cl": 78, "ucl": 30, "cal": 108, "tl": 156, "cb": 7, "tb": 30, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "StackTimAPI.Controllers.TeamsController", "rp": "StackTimAPI_TeamsController.html", "cl": 0, "ucl": 73, "cal": 73, "tl": 121, "cb": 0, "tb": 24, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "StackTimAPI.Db.StackTimDbContext", "rp": "StackTimAPI_StackTimDbContext.html", "cl": 32, "ucl": 0, "cal": 32, "tl": 50, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "StackTimAPI.DTOs.AddPlayerToTeamDto", "rp": "StackTimAPI_AddPlayerToTeamDto.html", "cl": 0, "ucl": 2, "cal": 2, "tl": 8, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "StackTimAPI.DTOs.CreatePlayerDto", "rp": "StackTimAPI_CreatePlayerDto.html", "cl": 4, "ucl": 0, "cal": 4, "tl": 19, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "StackTimAPI.DTOs.CreateTeamDto", "rp": "StackTimAPI_CreateTeamDto.html", "cl": 0, "ucl": 2, "cal": 2, "tl": 12, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "StackTimAPI.DTOs.UpdatePlayerDto", "rp": "StackTimAPI_UpdatePlayerDto.html", "cl": 0, "ucl": 4, "cal": 4, "tl": 19, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "StackTimAPI.Models.Player", "rp": "StackTimAPI_Player.html", "cl": 6, "ucl": 0, "cal": 6, "tl": 23, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "StackTimAPI.Models.Team", "rp": "StackTimAPI_Team.html", "cl": 0, "ucl": 4, "cal": 4, "tl": 19, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "StackTimAPI.Models.TeamPlayer", "rp": "StackTimAPI_TeamPlayer.html", "cl": 0, "ucl": 5, "cal": 5, "tl": 14, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "StackTimAPI.Controllers.TeamsController", "rp": "StackTimAPI_TeamsController.html", "cl": 30, "ucl": 43, "cal": 73, "tl": 121, "cb": 12, "tb": 24, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},
 ];
 
@@ -243,18 +233,6 @@ var riskHotspots = [
     "metrics": [
       { "value": 420, "exceeded": true },
       { "value": 20, "exceeded": true },
-    ]},
-  {
-    "assembly": "StackTimAPI", "class": "StackTimAPI.Controllers.TeamsController", "reportPath": "StackTimAPI_TeamsController.html", "methodName": "AddPlayerToTeam()", "methodShortName": "AddPlayerToTeam()", "fileIndex": 0, "line": 82,
-    "metrics": [
-      { "value": 42, "exceeded": true },
-      { "value": 6, "exceeded": false },
-    ]},
-  {
-    "assembly": "StackTimAPI", "class": "StackTimAPI.Controllers.TeamsController", "reportPath": "StackTimAPI_TeamsController.html", "methodName": "RemovePlayerFromTeam()", "methodShortName": "RemovePlayerFromTeam()", "fileIndex": 0, "line": 106,
-    "metrics": [
-      { "value": 42, "exceeded": true },
-      { "value": 6, "exceeded": false },
     ]},
 ];
 

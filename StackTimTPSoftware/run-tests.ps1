@@ -1,31 +1,49 @@
-$testProj = ".\StacktimApi.Tests\StacktimApi.Tests.csproj"
-$results  = ".\TestResults"
-$report   = ".\CoverageReport"
+# params
+$test = ".\StacktimApi.Tests\StacktimApi.Tests.csproj"
+$out  = ".\TestResults"
+$rep  = ".\CoverageReport"
 
+# build
 Write-Host "== build =="
 dotnet build
 
+# tests + couverture
 Write-Host "== tests + couverture =="
-dotnet test $testProj --collect:"XPlat Code Coverage" --results-directory $results -- DataCollectionRunSettings.DataCollectors.DataCollector.Configuration.Format=cobertura
-
-# on chope le premier fichier de couverture trouvé
-$cov = Get-ChildItem -Recurse -Filter "coverage.cobertura.xml" $results | Select-Object -First 1
-if (-not $cov) {
-  Write-Host "pas trouvé de couverture :(" 
-  exit 1
+dotnet test $test --collect:"XPlat Code Coverage" --results-directory $out -- DataCollectionRunSettings.DataCollectors.DataCollector.Configuration.Format=cobertura
+if ($LASTEXITCODE -ne 0) { 
+    Write-Host "tests KO"
+    exit 1 
 }
 
-Write-Host "== rapport html =="
-reportgenerator -reports:$($cov.FullName) -targetdir:$report -reporttypes:Html;TextSummary
-
-# petit résumé si dispo
-if (Test-Path "$report\Summary.txt") {
-  Get-Content "$report\Summary.txt"
+# fichier de couverture
+$cov = Get-ChildItem -Recurse -Filter "coverage.cobertura.xml" $out | Select-Object -First 1
+if (-not $cov) { 
+    Write-Host "pas de coverage.cobertura.xml"
+    exit 1 
 }
 
-# ouvrir le rapport si possible
-if (Test-Path "$report\index.html") {
-  Start-Process "$report\index.html"
+# reset dossier rapport
+if (Test-Path $rep) { Remove-Item $rep -Recurse -Force }
+
+# rapport (controllers only)
+Write-Host "== rapport html (Controllers only) =="
+dotnet tool run reportgenerator `
+    -reports:"$($cov.FullName)" `
+    -targetdir:"$rep" `
+    -reporttypes:"Html;TextSummary" `
+    -assemblyfilters:"+StackTimAPI;-StacktimApi.Tests*" `
+    -classfilters:"+StackTimAPI.Controllers.*"
+
+# résumé
+if (Test-Path "$rep\Summary.txt") {
+    Write-Host "`n===== Résumé couverture (Controllers) ====="
+    Get-Content "$rep\Summary.txt"
+    Write-Host "===========================================`n"
+}
+
+# ouvre le rapport
+if (Test-Path "$rep\index.html") {
+    Start-Process "$rep\index.html"
 } else {
-  Write-Host "rapport pas trouvé, voir dossier $report"
+    Write-Host "rapport pas trouvé, voir $rep"
 }
