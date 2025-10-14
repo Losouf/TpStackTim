@@ -33,9 +33,6 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimAPI\\StackTimAPI.csproj": {
-                "projectPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimAPI\\StackTimAPI.csproj"
-              },
               "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj": {
                 "projectPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj"
               }

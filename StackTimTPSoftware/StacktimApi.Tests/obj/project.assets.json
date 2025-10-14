@@ -3959,7 +3959,6 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimAPI\\StackTimAPI.csproj",
       "Microsoft.EntityFrameworkCore.InMemory >= 8.0.6",
       "Microsoft.NET.Test.Sdk >= 17.11.1",
       "StackTimAPI >= 1.0.0",
@@ -4001,9 +4000,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimAPI\\StackTimAPI.csproj": {
-              "projectPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimAPI\\StackTimAPI.csproj"
-            },
             "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj": {
               "projectPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj"
             }
@@ -4068,16 +4064,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Projet 'C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimAPI\\StackTimAPI.csproj' introuvable. Vérifiez que la référence de projet est valide et que le fichier projet existe.",
-      "libraryId": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimAPI\\StackTimAPI.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

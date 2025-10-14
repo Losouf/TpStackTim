@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "oeijNOiitL8=",
-  "success": false,
+  "dgSpecHash": "a8sn1VV/QoE=",
+  "success": true,
   "projectFilePath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\livio\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
@@ -82,17 +82,5 @@
     "C:\\Users\\livio\\.nuget\\packages\\xunit.extensibility.execution\\2.9.2\\xunit.extensibility.execution.2.9.2.nupkg.sha512",
     "C:\\Users\\livio\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.2\\xunit.runner.visualstudio.2.8.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Projet 'C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimAPI\\StackTimAPI.csproj' introuvable. Vérifiez que la référence de projet est valide et que le fichier projet existe.",
-      "projectPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj",
-      "filePath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj",
-      "libraryId": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimAPI\\StackTimAPI.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

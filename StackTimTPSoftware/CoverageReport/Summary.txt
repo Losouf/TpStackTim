@@ -1,0 +1,34 @@
+Summary
+  Generated on: 14/10/2025 - 22:16:59
+  Coverage date: 14/10/2025 - 22:16:58
+  Parser: Cobertura
+  Assemblies: 1
+  Classes: 12
+  Files: 12
+  Line coverage: 45.9%
+  Covered lines: 125
+  Uncovered lines: 147
+  Coverable lines: 272
+  Total lines: 492
+  Branch coverage: 12.5% (7 of 56)
+  Covered branches: 7
+  Total branches: 56
+  Method coverage: 50% (26 of 52)
+  Full method coverage: 48% (25 of 52)
+  Covered methods: 26
+  Fully covered methods: 25
+  Total methods: 52
+
+StackTimAPI                                   45.9%
+  PlayerDto                                    100%
+  Program                                        0%
+  StackTimAPI.Controllers.PlayersController   72.2%
+  StackTimAPI.Controllers.TeamsController        0%
+  StackTimAPI.Db.StackTimDbContext             100%
+  StackTimAPI.DTOs.AddPlayerToTeamDto            0%
+  StackTimAPI.DTOs.CreatePlayerDto             100%
+  StackTimAPI.DTOs.CreateTeamDto                 0%
+  StackTimAPI.DTOs.UpdatePlayerDto               0%
+  StackTimAPI.Models.Player                    100%
+  StackTimAPI.Models.Team                        0%
+  StackTimAPI.Models.TeamPlayer                  0%
