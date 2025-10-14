@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj": {}
+    "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj": {}
   },
   "projects": {
-    "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj": {
+    "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj",
+        "projectUniqueName": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj",
         "projectName": "StackTimAPI",
-        "projectPath": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj",
+        "projectPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj",
         "packagesPath": "C:\\Users\\livio\\.nuget\\packages\\",
-        "outputPath": "C:\\UwAmp\\www\\my-app\\Github\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\obj\\",
+        "outputPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,17 +51,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "EntityFramework": {
-              "target": "Package",
-              "version": "[6.5.1, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[8.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[8.0.6, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -87,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
