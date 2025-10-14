@@ -1,24 +1,24 @@
 Summary
-  Generated on: 14/10/2025 - 23:01:38
-  Coverage date: 14/10/2025 - 23:01:38
+  Generated on: 14/10/2025 - 23:18:33
+  Coverage date: 14/10/2025 - 23:18:32
   Parser: Cobertura
   Assemblies: 1
   Classes: 2
   Files: 2
-  Line coverage: 59.6%
-  Covered lines: 108
-  Uncovered lines: 73
+  Line coverage: 75.1%
+  Covered lines: 136
+  Uncovered lines: 45
   Coverable lines: 181
   Total lines: 277
-  Branch coverage: 35.1% (19 of 54)
-  Covered branches: 19
+  Branch coverage: 72.2% (39 of 54)
+  Covered branches: 39
   Total branches: 54
-  Method coverage: 64.2% (9 of 14)
-  Full method coverage: 57.1% (8 of 14)
-  Covered methods: 9
-  Fully covered methods: 8
+  Method coverage: 71.4% (10 of 14)
+  Full method coverage: 64.2% (9 of 14)
+  Covered methods: 10
+  Fully covered methods: 9
   Total methods: 14
 
-StackTimAPI                                   59.6%
-  StackTimAPI.Controllers.PlayersController   72.2%
+StackTimAPI                                   75.1%
+  StackTimAPI.Controllers.PlayersController   98.1%
   StackTimAPI.Controllers.TeamsController       41%

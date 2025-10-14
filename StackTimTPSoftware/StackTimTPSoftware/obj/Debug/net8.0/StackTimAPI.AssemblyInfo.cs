@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StackTimAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ecb24c90c884c778f60f3a272ba96c3c6f41e5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2d98cf386832ad6e3a035e61d2ae3919d126ca7")]
 [assembly: System.Reflection.AssemblyProductAttribute("StackTimAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StackTimAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

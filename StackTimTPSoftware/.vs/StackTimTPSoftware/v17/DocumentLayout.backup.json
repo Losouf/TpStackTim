@@ -57,8 +57,7 @@
               "RelativeToolTip": "StackTimTPSoftware\\Db\\StackTimDbContext.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAQwB4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T20:31:05.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T20:31:05.285Z"
             },
             {
               "$type": "Document",
@@ -70,8 +69,7 @@
               "RelativeToolTip": "StackTimTPSoftware\\Controller\\TeamsController.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAIwHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T20:26:37.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T20:26:37.454Z"
             },
             {
               "$type": "Document",
@@ -81,7 +79,7 @@
               "RelativeDocumentMoniker": "StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
               "ToolTip": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
               "RelativeToolTip": "StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T20:26:12.153Z",
               "EditorCaption": ""
@@ -94,7 +92,7 @@
               "RelativeDocumentMoniker": "StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
               "ToolTip": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
               "RelativeToolTip": "StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAUwK8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T20:15:21.525Z",
               "EditorCaption": ""
@@ -107,7 +105,7 @@
               "RelativeDocumentMoniker": "run-tests.ps1",
               "ToolTip": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\run-tests.ps1",
               "RelativeToolTip": "run-tests.ps1",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-10-14T20:14:44.228Z",
               "EditorCaption": ""

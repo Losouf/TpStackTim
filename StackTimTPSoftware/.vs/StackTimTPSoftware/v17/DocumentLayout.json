@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|\u00C9l\u00E9ments de solution{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\run-tests.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|\u00C9l\u00E9ments de solution{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|solutionrelative:run-tests.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|c:\\uwamp\\www\\my-app\\git\\tpstacktim\\stacktimtpsoftware\\stacktimapi.tests\\controllers\\playerscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|solutionrelative:stacktimapi.tests\\controllers\\playerscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|c:\\uwamp\\www\\my-app\\git\\tpstacktim\\stacktimtpsoftware\\stacktimapi.tests\\controllers\\teamscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|solutionrelative:stacktimapi.tests\\controllers\\teamscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|\u00C9l\u00E9ments de solution{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\run-tests.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|\u00C9l\u00E9ments de solution{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|solutionrelative:run-tests.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|c:\\uwamp\\www\\my-app\\git\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\controller\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,32 +73,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TeamsControllerTest.cs",
               "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
               "RelativeDocumentMoniker": "StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
               "ToolTip": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
               "RelativeToolTip": "StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T20:26:12.153Z"
+              "WhenOpened": "2025-10-14T20:26:12.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayersControllerTest.cs",
               "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
               "RelativeDocumentMoniker": "StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
               "ToolTip": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
               "RelativeToolTip": "StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAJoAAAAAAAAAAADwv68AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T20:15:21.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "run-tests.ps1",
               "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\run-tests.ps1",
               "RelativeDocumentMoniker": "run-tests.ps1",

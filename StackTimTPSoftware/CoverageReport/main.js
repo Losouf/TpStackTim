@@ -213,7 +213,7 @@ var assemblies = [
   {
     "name": "StackTimAPI",
     "classes": [
-      { "name": "StackTimAPI.Controllers.PlayersController", "rp": "StackTimAPI_PlayersController.html", "cl": 78, "ucl": 30, "cal": 108, "tl": 156, "cb": 7, "tb": 30, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "StackTimAPI.Controllers.PlayersController", "rp": "StackTimAPI_PlayersController.html", "cl": 106, "ucl": 2, "cal": 108, "tl": 156, "cb": 27, "tb": 30, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "StackTimAPI.Controllers.TeamsController", "rp": "StackTimAPI_TeamsController.html", "cl": 30, "ucl": 43, "cal": 73, "tl": 121, "cb": 12, "tb": 24, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},
 ];
@@ -231,7 +231,7 @@ var riskHotspots = [
   {
     "assembly": "StackTimAPI", "class": "StackTimAPI.Controllers.PlayersController", "reportPath": "StackTimAPI_PlayersController.html", "methodName": "Update()", "methodShortName": "Update()", "fileIndex": 0, "line": 89,
     "metrics": [
-      { "value": 420, "exceeded": true },
+      { "value": 20, "exceeded": false },
       { "value": 20, "exceeded": true },
     ]},
 ];
