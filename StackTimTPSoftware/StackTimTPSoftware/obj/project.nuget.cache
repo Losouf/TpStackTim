@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fG34n3WsbI8=",
+  "dgSpecHash": "3V3xoFF+TpY=",
   "success": true,
-  "projectFilePath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj",
+  "projectFilePath": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\livio\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\livio\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

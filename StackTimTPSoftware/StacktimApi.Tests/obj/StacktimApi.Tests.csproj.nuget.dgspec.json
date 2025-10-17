@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj": {}
+    "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj": {}
   },
   "projects": {
-    "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj": {
+    "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj",
         "projectName": "StacktimApi.Tests",
-        "projectPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj",
+        "projectPath": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj",
         "packagesPath": "C:\\Users\\livio\\.nuget\\packages\\",
-        "outputPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\obj\\",
+        "outputPath": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj": {
-                "projectPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj"
+              "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimAPI\\StackTimAPI.csproj": {
+                "projectPath": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimAPI\\StackTimAPI.csproj"
+              },
+              "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj": {
+                "projectPath": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj"
               }
             }
           }
@@ -94,18 +97,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj": {
+    "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj",
+        "projectUniqueName": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj",
         "projectName": "StackTimAPI",
-        "projectPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj",
+        "projectPath": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\StackTimAPI.csproj",
         "packagesPath": "C:\\Users\\livio\\.nuget\\packages\\",
-        "outputPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\obj\\",
+        "outputPath": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -177,7 +180,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
