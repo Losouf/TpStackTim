@@ -59,7 +59,7 @@
               "RelativeDocumentMoniker": "StackTimTPSoftware\\appsettings.json",
               "ToolTip": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\appsettings.json",
               "RelativeToolTip": "StackTimTPSoftware\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-17T14:21:26.321Z",
               "EditorCaption": ""
@@ -74,8 +74,7 @@
               "RelativeToolTip": "StackTimTPSoftware\\Db\\StackTimDbContext.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAQwB4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T20:31:05.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T20:31:05.285Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
               "ViewState": "AgIAAJoAAAAAAAAAAADwv68AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T20:15:21.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T20:15:21.525Z"
             },
             {
               "$type": "Document",

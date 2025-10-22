@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\",
+  "WorkspaceRootPath": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|c:\\uwamp\\www\\my-app\\git\\tpstacktim\\stacktimtpsoftware\\stacktimapi.tests\\controllers\\playerscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|solutionrelative:stacktimapi.tests\\controllers\\playerscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|c:\\users\\livio\\desktop\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|solutionrelative:stacktimtpsoftware\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|c:\\uwamp\\www\\my-app\\git\\tpstacktim\\stacktimtpsoftware\\stacktimapi.tests\\controllers\\teamscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|solutionrelative:stacktimapi.tests\\controllers\\teamscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|\u00C9l\u00E9ments de solution{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\run-tests.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|\u00C9l\u00E9ments de solution{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|solutionrelative:run-tests.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|c:\\uwamp\\www\\my-app\\git\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\controller\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|solutionrelative:stacktimtpsoftware\\controller\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|c:\\uwamp\\www\\my-app\\git\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\db\\stacktimdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|c:\\users\\livio\\desktop\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\db\\stacktimdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|solutionrelative:stacktimtpsoftware\\db\\stacktimdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|c:\\uwamp\\www\\my-app\\git\\tpstacktim\\stacktimtpsoftware\\stacktimapi.tests\\stacktimapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|c:\\users\\livio\\desktop\\github\\tpstacktim\\stacktimtpsoftware\\stacktimapi.tests\\controllers\\playerscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|solutionrelative:stacktimapi.tests\\controllers\\playerscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|c:\\users\\livio\\desktop\\github\\tpstacktim\\stacktimtpsoftware\\stacktimapi.tests\\controllers\\teamscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|solutionrelative:stacktimapi.tests\\controllers\\teamscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|\u00C9l\u00E9ments de solution{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\run-tests.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|\u00C9l\u00E9ments de solution{9C8CB701-102D-CF49-A3E0-89AC09D42C2C}|solutionrelative:run-tests.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|c:\\users\\livio\\desktop\\github\\tpstacktim\\stacktimtpsoftware\\stacktimtpsoftware\\controller\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF603E9D-476F-4348-AC38-A08802930D89}|StackTimTPSoftware\\StackTimAPI.csproj|solutionrelative:stacktimtpsoftware\\controller\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|c:\\users\\livio\\desktop\\github\\tpstacktim\\stacktimtpsoftware\\stacktimapi.tests\\stacktimapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1A8AEB99-F086-4B22-9D33-398F0FCE5CB4}|StacktimApi.Tests\\StacktimApi.Tests.csproj|solutionrelative:stacktimapi.tests\\stacktimapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -37,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,11 +53,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\appsettings.json",
+              "RelativeDocumentMoniker": "StackTimTPSoftware\\appsettings.json",
+              "ToolTip": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\appsettings.json",
+              "RelativeToolTip": "StackTimTPSoftware\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T14:21:26.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StackTimDbContext.cs",
-              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Db\\StackTimDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Db\\StackTimDbContext.cs",
               "RelativeDocumentMoniker": "StackTimTPSoftware\\Db\\StackTimDbContext.cs",
-              "ToolTip": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Db\\StackTimDbContext.cs",
+              "ToolTip": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Db\\StackTimDbContext.cs",
               "RelativeToolTip": "StackTimTPSoftware\\Db\\StackTimDbContext.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAQwB4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -61,11 +78,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TeamsController.cs",
-              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Controller\\TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Controller\\TeamsController.cs",
               "RelativeDocumentMoniker": "StackTimTPSoftware\\Controller\\TeamsController.cs",
-              "ToolTip": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Controller\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StackTimTPSoftware\\Controller\\TeamsController.cs",
               "RelativeToolTip": "StackTimTPSoftware\\Controller\\TeamsController.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAIwHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,46 +90,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TeamsControllerTest.cs",
-              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
               "RelativeDocumentMoniker": "StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
-              "ToolTip": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
+              "ToolTip": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
               "RelativeToolTip": "StacktimApi.Tests\\Controllers\\TeamsControllerTest.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAcwIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T20:26:12.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayersControllerTest.cs",
-              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
-              "RelativeDocumentMoniker": "StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
-              "ToolTip": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
-              "RelativeToolTip": "StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAADwv68AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T20:15:21.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T20:26:12.153Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "run-tests.ps1",
-              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\run-tests.ps1",
-              "RelativeDocumentMoniker": "run-tests.ps1",
-              "ToolTip": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\run-tests.ps1",
-              "RelativeToolTip": "run-tests.ps1",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-14T20:14:44.228Z",
-              "EditorCaption": ""
+              "Title": "PlayersControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
+              "RelativeDocumentMoniker": "StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
+              "ToolTip": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
+              "RelativeToolTip": "StacktimApi.Tests\\Controllers\\PlayersControllerTest.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAADwv68AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:15:21.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "run-tests.ps1",
+              "DocumentMoniker": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\run-tests.ps1",
+              "RelativeDocumentMoniker": "run-tests.ps1",
+              "ToolTip": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\run-tests.ps1",
+              "RelativeToolTip": "run-tests.ps1",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-14T20:14:44.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -124,11 +138,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "StacktimApi.Tests.csproj",
-              "DocumentMoniker": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj",
               "RelativeDocumentMoniker": "StacktimApi.Tests\\StacktimApi.Tests.csproj",
-              "ToolTip": "C:\\UwAmp\\www\\my-app\\Git\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj",
+              "ToolTip": "C:\\Users\\livio\\Desktop\\GitHub\\TpStackTim\\StackTimTPSoftware\\StacktimApi.Tests\\StacktimApi.Tests.csproj",
               "RelativeToolTip": "StacktimApi.Tests\\StacktimApi.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
